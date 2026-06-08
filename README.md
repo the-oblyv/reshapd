@@ -1,4 +1,4 @@
-# reshapd
+# reshapd ![images](./1349570d-d4b3-4d37-826d-f856aea952f9.png)
 
 A single-file, production-ready AI Agent Chatbot for Discord powered by Mistral AI and hosted effortlessly on Railway. **reshapd** responds to direct mentions and DMs using `mistral-large-latest`, handles image generation commands via `/imagine`, and supports custom personalities.
 
